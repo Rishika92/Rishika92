@@ -10,6 +10,20 @@
 
 AI Engineer who thinks in embeddings, prompts, and retrieval pipelines — and builds the full-stack systems needed to actually put them in front of users.
 
+<div align="center">
+
+<a href="https://github.com/Rishika92"><img src="https://img.shields.io/badge/GitHub-Rishika92-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/rishika29/"><img src="https://img.shields.io/badge/LeetCode-rishika29-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<a href="https://github.com/Rishika92"><img src="https://img.shields.io/github/followers/Rishika92?label=Follow&style=social"/></a>
+<img src="https://komarev.com/ghpvc/?username=Rishika92&label=Profile%20Views&color=6366F1&style=flat"/>
+
+</div>
+
 <br/>
 
 - 🎯 Building AI systems that combine retrieval with reasoning, not just autocomplete
@@ -17,132 +31,138 @@ AI Engineer who thinks in embeddings, prompts, and retrieval pipelines — and b
 - 🗂️ Every project I ship lives on [github.com/Rishika92](https://github.com/Rishika92)
 - 💬 Ask me about RAG pipelines, semantic search, or why your vector index is lying to you
 - 📫 Reach me at **arisettyrishika@gmail.com**
+- ⚡ Fun fact: I debug faster when the bug has already annoyed me enough.
 
 <br/>
 
 ## About Me
+
 <img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-I'm a B.Tech Computer Science Engineering student at SRM University AP, and most of my free time goes into the same question: how do you make a system actually understand what someone wants, instead of just matching patterns?
+- 🎓 B.Tech CSE @ SRM University AP
+- 🧠 Into RAG pipelines, agentic workflows, and making models retrieve before they reason
+- 🏗️ Full-stack when the AI needs a home — React/Next.js, Node.js, FastAPI, Flask
+- 🎯 More interested in *why* a system fails than shipping a demo that "just works"
 
-That question is what pulled me from typical CRUD apps into RAG pipelines, agentic workflows, and semantic search — where the interesting work starts after the basic version already "works." On the other side of that, I still build the full-stack plumbing myself: React/Next.js on the front end, Node.js, FastAPI, and Flask on the back end. I like owning a feature end-to-end rather than handing off the "boring parts."
+<br clear="right"/>
 
-Outside of AI-specific work, I'm just someone who likes taking a messy, half-formed idea and turning it into something that runs, holds up, and doesn't fall over the moment a real user touches it.
-
-<br clear="right"/> <br/>
+<br/>
 
 
 ## Tech Stack
-
-**Programming**
+ 
+<div align="center">
+<sub><b>CORE LANGUAGES</b></sub>
 <br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-
-**Frontend**
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
+ 
+<br/><br/>
+ 
+<sub><b>INTERFACE LAYER</b></sub>
 <br/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-
-**Backend & APIs**
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,figma"/>
+ 
+<br/><br/>
+ 
+<sub><b>SERVER SIDE</b></sub>
 <br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-6366F1?style=flat-square"/>
-
-**Databases**
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,git,github,linux,vscode"/>
+ 
+<br/><br/>
+ 
+<sub><b>DATA LAYER</b></sub>
 <br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-**AI / ML**
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+ 
+<br/><br/>
+ 
+<sub><b>AI / ML</b></sub>
 <br/>
-<img src="https://img.shields.io/badge/Generative_AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/NLP-0EA5E9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-0EA5E9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Agentic_AI-8B5CF6?style=flat-square"/>
-
-**Tools & Platforms**
+<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
 <br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-
-**Core Concepts**
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/NLP-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-0EA5E9?style=for-the-badge"/>
+ 
+<br/><br/>
+ 
+<sub><b>CS FUNDAMENTALS</b></sub>
 <br/>
-<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-4B5563?style=flat-square"/>
-<img src="https://img.shields.io/badge/OOP-4B5563?style=flat-square"/>
-<img src="https://img.shields.io/badge/DBMS-4B5563?style=flat-square"/>
-<img src="https://img.shields.io/badge/Operating_Systems-4B5563?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computer_Networks-4B5563?style=flat-square"/>
-
+<img src="https://img.shields.io/badge/DSA-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OS-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Networks-EC4899?style=for-the-badge"/>
+ 
+</div>
 <br/>
 
 ## Featured Projects
 
-**🤖 AI-Based Smart Interview Prep Platform**
-AI-powered platform that helps students practice technical interviews through intelligent, interactive Q&A.
-`Generative AI` `Full-Stack Development` `AI`
+<table width="100%">
+<tr>
+<td width="25%" valign="top">
+
+**🤖 AI Interview Prep**
+
+Helps students practice technical interviews through intelligent, interactive AI-driven Q&A.
+
+<sub><code>Generative AI</code> <code>Full-Stack</code></sub>
+
+</td>
+<td width="25%" valign="top">
 
 **🛍️ RetailMind AI**
-Retail intelligence app that retrieves relevant information via semantic search and vector-based retrieval instead of keyword matching.
-`Python` `Flask` `HNSW` `AI/ML`
+
+Retail intelligence app using vector-based retrieval to surface relevant info — no keyword matching.
+
+<sub><code>Python</code> <code>Flask</code> <code>HNSW</code></sub>
+
+</td>
+<td width="25%" valign="top">
 
 **💡 IdeaNest**
-AI-powered idea exploration platform that helps users generate, develop, and refine ideas using Generative AI.
-`Python` `Flask` `Streamlit` `Gemini API`
 
-**☁️ AetherDrive**
-Full-stack cloud file management platform with authentication, folder management, file uploads, and cloud-based media storage.
-`React` `Node.js` `Express` `MongoDB` `Cloudinary` `JWT`
+AI-powered idea exploration platform that helps generate, develop, and refine ideas.
 
-**🧠 Brain MRI Tumor Segmentation**
-Deep learning system that segments brain tumors from MRI images using a U-Net architecture.
-`Python` `Deep Learning` `U-Net` `Computer Vision`
+<sub><code>Flask</code> <code>Streamlit</code> <code>Gemini API</code></sub>
+
+</td>
+<td width="25%" valign="top">
+
+**🧠 Brain MRI Segmentation**
+
+Deep learning system segmenting brain tumors from MRI scans using U-Net.
+
+<sub><code>Python</code> <code>U-Net</code> <code>CV</code></sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## What I Like Building
 
-I'm drawn to the problems where the interesting part isn't the CRUD — it's the layer where a system has to interpret, retrieve, or decide something.
-
 - 🧠 **Intelligent systems** — RAG pipelines and agentic workflows where an LLM has to reason, not just autocomplete
-- 🔎 **Search that understands intent** — semantic search and vector retrieval that goes beyond keyword matching
-- 🏗️ **End-to-end products** — not just the model, but the full path from UI to API to database that makes it usable
+- 🔎 **Search that understands intent** — semantic search and vector retrieval, beyond keyword matching
+- 🏗️ **End-to-end products** — UI to API to database, not just the model
 - 🧰 **Developer tooling** — small utilities that remove friction from someone else's workflow
-- ☁️ **Systems built to scale** — past "works on my laptop," toward "works under real traffic"
+- ☁️ **Systems built to scale** — past "works on my laptop"
 
 <br/>
 
 ## Engineering Mindset
 
-Three things guide how I build:
-
-**1. Understand before you optimize.**
-I don't tune what I can't explain. If I can't say why something is slow, adding a cache is just superstition.
-
-**2. Design for the 1% case, not just the demo.**
-The interesting bugs live in empty states, malformed input, and race conditions — not the happy path.
-
-**3. Simplicity is a feature, not a shortcut.**
-The best fix is usually the one that removes code, not the one that adds a clever abstraction.
-
-I'd rather ship something smaller I fully understand than something impressive I can't debug at 2 AM.
+- Understand before you optimize — no tuning what I can't explain
+- Design for the 1% case, not just the demo
+- Simplicity > clever abstractions
+- Ship small and understood, not impressive and undebuggable at 2 AM
 
 <br/>
 
@@ -156,33 +176,15 @@ I'd rather ship something smaller I fully understand than something impressive I
 
 <br/>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishika92&theme=react-dark&hide_border=true&area=true" width="100%"/>
-
-<br/>
-
-## Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/Rishika92"><img src="https://img.shields.io/badge/GitHub-Rishika92-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://leetcode.com/u/rishika29/"><img src="https://img.shields.io/badge/LeetCode-rishika29-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.linkedin.com/rishika-arisetty"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:arisettyrishika@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-
-
-<a href="https://github.com/Rishika92"><img src="https://img.shields.io/github/followers/Rishika92?label=Follow&style=social"/></a>
-<img src="https://komarev.com/ghpvc/?username=Rishika92&label=Profile%20Views&color=6366F1&style=flat"/>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Rishika92?cardType=github&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 </div>
 
 <br/>
-
-<div align="center">
 
 ### Code it. Break it. Understand why. Ship it anyway.
 
