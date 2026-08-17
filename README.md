@@ -163,16 +163,6 @@ I'd rather ship something smaller I fully understand than something impressive I
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishika92&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Rishika92&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=Rishika92&hide_border=true&theme=tokyonight" height="165"/>
-</div>
-
 <br/>
 
 ## Let's Connect
