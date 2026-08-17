@@ -16,8 +16,7 @@ AI Engineer who thinks in embeddings, prompts, and retrieval pipelines — and b
 - 🧩 Currently deep in agentic workflows — LangGraph, tool-calling, multi-step reasoning
 - 🗂️ Every project I ship lives on [github.com/Rishika92](https://github.com/Rishika92)
 - 💬 Ask me about RAG pipelines, semantic search, or why your vector index is lying to you
-- 📫 Reach me at **YOUR_EMAIL**
-- ⚡ Fun fact: **YOUR_FUN_FACT**
+- 📫 Reach me at **arisettyrishika@gmail.com**
 
 <br/>
 
